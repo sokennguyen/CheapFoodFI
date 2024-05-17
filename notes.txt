@@ -1,0 +1,6 @@
+categories:
+protein: egg, milk, minced beef, pork, chicken, beef
+veggie: many veggies
+diaries: milk, yogurt
+spices: ...duh
+
